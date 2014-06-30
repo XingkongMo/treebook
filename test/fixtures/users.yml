@@ -1,6 +1,12 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 jd:
-  email: "djrlthu"
-  profile_name: 'JJ'
+  email: "djrlthu@gmail.com"
+  profile_name: "JJ"
   first_name: "J"
   last_name: "D"
+
+jim:
+  email: "djrlthu"
+  profile_name: "JimDim"
+  first_name: "Jim"
+  last_name: "Dim"
