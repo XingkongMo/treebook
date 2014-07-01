@@ -10,3 +10,9 @@ jim:
   profile_name: "JimDim"
   first_name: "Jim"
   last_name: "Dim"
+
+zz:
+  email: "xuanlanwang@gmail.com"
+  profile_name: "ZZ"
+  first_name: "Xinran"
+  last_name: "Wang"
