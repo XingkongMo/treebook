@@ -8,6 +8,10 @@ gem 'rails', '4.1.1'
 gem 'devise'
 gem 'simple_form'
 
+group :test do
+  gem 'shoulda'
+end
+
 group :development, :test do
   gem 'sqlite3'
 end
